@@ -1,3 +1,3 @@
 # hello-world
-a test
+a test.
 A newcomer.
